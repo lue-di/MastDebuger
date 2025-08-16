@@ -43,3 +43,6 @@ nop
 returnhere:
 
 ```
+
+# Donate
+[爱发电](https://afdian.com/a/luedi)
