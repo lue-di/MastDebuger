@@ -1,0 +1,6 @@
+/cmake-build-release-x86/
+/cmake-build-release-visual-studio-2019/
+/cmake-build-debug-visual-studio-2019/
+/cmake-build-debug/
+/.idea/
+/core/CMakeLists.txt
