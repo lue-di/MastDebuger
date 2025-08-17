@@ -133,7 +133,7 @@ MyReadFile(
     auto fPsize = GetFinalPathNameByHandleA(hFile,filePath,MAX_PATH,0);
     char *key;
     char tmp;
-    if ( strstr (filePath, "F:")){
+    if ( strstr (filePath, "F:")&& aimLen==256){
         key = (char*)lpBuffer-16;
         tmp=*(char*)lpBuffer;
         *(char*)lpBuffer=0;
